@@ -3,6 +3,7 @@ I've implemented follow [GlyphGAN](https://arxiv.org/abs/1905.12502) paper in Th
 Here are the results:
 
 Generated Font During Training:
+
 ![alt text](https://github.com/thunchakorn/ThaiFontGANs/blob/master/image/training_progress_2.gif)
 
 After finished training Generator, here are some output from Generator
